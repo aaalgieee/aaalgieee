@@ -12,4 +12,19 @@ SideNote: I am not a pro in this field, still a newbie. :">
 - VB.Net
 - Javascript
 
-## Other Skills
+## Other Skills 🖼
+Alongside with making code, I do:
+
+- Video Editing (Adobe Premiere Pro and After Effects)
+- Graphic Design
+- Street / Car Photography
+
+## Social Handles 📱
+
+- [LinkedIn](https://www.linkedin.com/in/al-gabriel-orig-97048a220/)
+- [Facebook](https://www.facebook.com/aaalgieee)
+- [Instagram](https://www.instagram.com/aaalgieee)
+- [Twitter](https://www/twitter.com/aaalgieee)
+- Email: jaworski.orig@gmail.com
+
+Portfolio Website currently at construction. 🤞
