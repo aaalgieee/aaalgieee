@@ -15,7 +15,7 @@ SideNote: I am not a pro in this field, still a newbie. :">
 ## Other Skills 🖼
 Alongside of making code, I do:
 
-- Video Editing (Adobe Premiere Pro and After Effects)
+- Video Editing
 - Graphic Design
 - Street / Car Photography
 
