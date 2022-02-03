@@ -10,13 +10,11 @@ SideNote: I am not a pro in this field, still a newbie. :">
 - Java
 - Flutter
 - VB.Net
-- Javascript
 
 ## Other Skills 🖼
 Alongside of making code, I do:
 
 - Video Editing
-- Graphic Design
 - Street / Car Photography
 
 ## Social Handles 📱
