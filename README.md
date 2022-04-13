@@ -20,6 +20,7 @@ Alongside of making code, I do:
 - Video Editing
 - Street / Car Photography
 - Graphic Design
+- Audio Mixing
 
 ## Social Handles 📱
 
