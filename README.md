@@ -1,6 +1,6 @@
 ## Mabuhay and Welcome! 👋
 
-I am Al Gabriel, a student in University of the Immaculate Conception taking Bachelor of Science in Computer Science. Interested in iOS Development and Backend Development.
+I am Al Gabriel, a student in [University of the Immaculate Conception](uic.edu.ph) taking Bachelor of Science in Computer Science. Interested in iOS Development and Backend Development.
 
 Currently the Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic)
 
