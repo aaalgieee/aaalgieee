@@ -1,6 +1,6 @@
 ## Mabuhay and Welcome! 👋
 
-I am Al Gabriel, a 20 Years Old student developer, video editor and (currently learning) 3DFX. Graduated Senior High School as a Humanities and Social Studies Student at [Notre Dame of Cotabato](https://www.facebook.com/NDCotabato/) and currently enrolled at [University of the Immaculate Conception](https://www.uic.edu.ph/) as a BS Computer Science Student. I also have a fond in cars, anime, k-dramas, tech, and quite a audiophile. :>
+I am Al Gabriel, a student in University of the Immaculate Conception taking Bachelor of Science in Computer Science. Interested in iOS Development and Backend Development.
 
 Currently the Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic)
 
@@ -10,12 +10,16 @@ SideNote: I am not a pro in this field, still a newbie. :">
 - Java
 - Flutter
 - VB.Net
+- Swift
+- Go
+- Python
 
 ## Other Skills 🖼
 Alongside of making code, I do:
 
 - Video Editing
 - Street / Car Photography
+- Graphic Design
 
 ## Social Handles 📱
 
