@@ -25,9 +25,9 @@ Alongside of making code, I do:
 ## Social Handles 📱
 
 - [LinkedIn](https://www.linkedin.com/in/al-gabriel-orig-97048a220/)
-- [Facebook](https://www.facebook.com/aaalgieee)
-- [Instagram](https://www.instagram.com/aaalgieee)
-- [Twitter](https://www/twitter.com/aaalgieee)
+- [Facebook](https://www.facebook.com/redactedxyz)
+- [Instagram](https://www.instagram.com/redacted_xyz)
+- [Twitter](https://www/twitter.com/redacted_xyz)
 - Email: jaworski.orig@gmail.com
 
 Portfolio Website currently at construction. 🤞
