@@ -1,6 +1,6 @@
 ## Mabuhay and Welcome! 👋
 
-I am Al Gabriel, a student in [University of the Immaculate Conception](uic.edu.ph) taking Bachelor of Science in Computer Science. Wanting to be Full-Stack Developer
+I am Al Gabriel, a student in [University of the Immaculate Conception](uic.edu.ph) taking Bachelor of Science in Computer Science. Interested in Cybersecurity, Web Technologies and little bit Mobile App Development
 
 Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) 2021 - 2022
 
