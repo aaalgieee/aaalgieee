@@ -3,6 +3,7 @@
 I am Al Gabriel, a student in [University of the Immaculate Conception](uic.edu.ph) taking Bachelor of Science in Computer Science. Interested in Cybersecurity, Web Technologies and little bit Mobile App Development
 
 Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2021 - 2022
+
 Chief Operations Officer of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2022 - 2023
 
 ## Techs I use💻
