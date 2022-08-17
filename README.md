@@ -4,7 +4,7 @@ I am Al Gabriel, a student in [University of the Immaculate Conception](uic.edu.
 
 Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) 2021 - 2022
 
-## Programming Languages 💻
+## Techs I use💻
 SideNote: I am not a pro in this field, still a newbie. :">
 
 - Java
