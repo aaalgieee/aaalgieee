@@ -12,7 +12,7 @@ SideNote: I am not a pro in this field, still a newbie. :">
 
 - Python
 - Java
-- Dart
+- Dart / Flutter
 - Go
 - Javascript
 
