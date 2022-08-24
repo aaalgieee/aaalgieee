@@ -30,6 +30,5 @@ Alongside of making code, I do:
 - [Facebook](https://www.facebook.com/aaalgieeee)
 - [Instagram](https://www.instagram.com/aaalgieee)
 - [Twitter](https://www/twitter.com/aaalgieee)
-- Email: jaworski.orig@gmail.com
 
 Portfolio Website currently at construction. 🤞
