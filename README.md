@@ -1,6 +1,6 @@
 ## Mabuhay and Welcome! 👋
 
-I am Al Gabriel, a student in [University of the Immaculate Conception](uic.edu.ph) taking Bachelor of Science in Computer Science. Interested in Cybersecurity, Web Technologies and little bit Mobile App Development
+I am Al Gabriel, a student in [University of the Immaculate Conception](https://uic.edu.ph) taking Bachelor of Science in Computer Science. I seldomly code hence I do alot of watching anime and kdrama or learn new computer related things.
 
 ## Affiliations 👥
 - Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2021 - 2022
