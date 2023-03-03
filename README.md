@@ -28,7 +28,7 @@ Alongside of making code, I do:
 
 ## Social Handles 📱
 
-- [Email](connect@aaalgieee.xyz)
+- Email: connect@aaalgieee.xyz
 - [LinkedIn](https://www.linkedin.com/in/al-gabriel-orig-97048a220/)
 - [Facebook](https://www.facebook.com/aaalgieeee)
 - [Instagram](https://www.instagram.com/aaalgieee)
