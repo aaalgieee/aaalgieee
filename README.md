@@ -6,7 +6,7 @@ I am Al Gabriel, a student in [University of the Immaculate Conception](https://
 - Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2021 - 2022
 - Chief Operations Officer of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2022 - 2023
 - Volunteer of [Google Developers Group Davao](https://www.facebook.com/gdgdavao/)
-- Member of UX [UX Davao](https://www.facebook.com/uxdavao)
+- Member of [UX Davao](https://www.facebook.com/uxdavao)
 
 ## Programming Languages 💻
 SideNote: I am not a pro in this field, still a newbie. :">
