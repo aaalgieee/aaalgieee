@@ -21,8 +21,6 @@ Currently studying BS Computer Science at University of the Immaculate Conceptio
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aaalgieee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aaalgieee&icon=2&color=12)](https://visitcount.itsvg.in)
