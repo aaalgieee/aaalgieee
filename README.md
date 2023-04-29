@@ -1,6 +1,11 @@
-# 💫 About Me:
-Currently studying BS Computer Science at University of the Immaculate Conception, Davao City, Philippines<br>Loved creating apps for iOS and Mac hence a "Swifty"<br>Jolly and Optimistic person with a masters of mental disguise.
+# 👋 Maligayang Pagdating:
+Currently studying at [University of the Immaculate Conception](https://uic.edu.ph) taking Bachelor of Science in Computer Science. <br>Who has the passion to make change in local tech community and a master of mental disguise.
 
+## Affiliations 👥
+- Lead of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2021 - 2022
+- Chief Operations Officer of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2022 - 2023
+- Volunteer of [Google Developers Group Davao](https://www.facebook.com/gdgdavao/)
+- Member of [UX Davao](https://www.facebook.com/uxdavao)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aaalgieee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaalgieee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaalgieee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aaalgieee) 
