@@ -2,6 +2,7 @@
 Currently studying at [University of the Immaculate Conception](https://uic.edu.ph) taking Bachelor of Science in Computer Science. <br>Who has the passion to make change in local tech community and a master of mental disguise.
 
 ## Affiliations 👥
+- Co-Founder of [DICE Davao](https://www.facebook.com/dice.dvo)
 - Member of [UX Davao](https://www.facebook.com/uxdavao)
 - Volunteer of [Google Developers Group Davao](https://www.facebook.com/gdgdavao/)
 - Chief Operations Officer of [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) for 2022 - 2023
