@@ -1,5 +1,5 @@
 # 👋 Maligayang Pagdating:
-I am an aspiring iOS Developer and currently studying at [University of the Immaculate Conception](https://uic.edu.ph) taking Bachelor of Science in Computer Science. <br>Who has the passion to make change in local tech community and a master of mental disguise.
+I am an aspiring iOS Developer and currently studying at [University of the Immaculate Conception](https://uic.edu.ph) taking Bachelor of Science in Computer Science. Also, has the passion to make change in local tech community and a master of mental disguise.
 
 ## Affiliations 👥
 - Founder and Events Lead of [DICE Davao](https://www.facebook.com/dice.dvo)
