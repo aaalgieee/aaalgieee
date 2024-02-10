@@ -1,4 +1,4 @@
-# 👋 Maligayang Pagdating:
+# 👋 Sul Sul!:
 I am an aspiring iOS Developer and currently studying at [University of the Immaculate Conception](https://uic.edu.ph) taking Bachelor of Science in Computer Science. Also, has the passion to make change in local tech community and a master of mental disguise.
 
 ## Affiliations 👥
