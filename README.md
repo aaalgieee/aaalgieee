@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Sul Sul! 👋</h1>
 
 ###
