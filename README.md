@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gab or Al (I'll leave that to you) and I'm a Full-Stack Developer from bustling forest City of Davao, Philippines</p>
+<p align="left">My name is Gab or Al (I'll leave that to you) and I'm a iOS Developer from bustling forest City of Davao, Philippines</p>
 
 ###
 
